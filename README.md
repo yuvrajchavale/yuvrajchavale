@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on [Testing Stocks Web Application](https://webapp.qedgetech.com/login.php)
 
-- 🌱 I’m currently learning **Selenium,Maven**
+- 🌱 I’m currently learning **Selenium,Maven,Cucumber,Postman(Api Testing),Jenkins**
 
 - 👯 I’m looking to collaborate on **Any Automation Testing Project**
 

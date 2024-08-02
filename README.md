@@ -4,7 +4,7 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I’m currently working on [Testing Stocks Web Application](https://webapp.qedgetech.com/login.php)
+- 🔭 I am currently working on implementing a Cucumber framework [WebApp](https://webapp.qedgetech.com/login.php)
 
 - 🌱 I’m currently learning **Selenium,Maven,Cucumber,Postman(Api Testing),Jenkins**
 
@@ -25,6 +25,9 @@
 <a href="https://instagram.com/yuvraj_uc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuvraj_uc" height="30" width="40" /></a>
 </p>
 
+
+###
+
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://worldvectorlogo.com/logo/jira-1" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="40" height="40"/> </a> 
@@ -41,7 +44,23 @@
  <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" width="40" height="40"/> </a> 
  </p>
 
+###
+
+### 
+<!-- Snake Animation -->
+<br clear="both">
+
+<img src="https://raw.githubusercontent.com/Pranaybaharghare/Pranaybaharghare/output/snake.svg" alt="Snake animation" />
+###
+
+###
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=yuvrajchavale&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=yuvrajchavale&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajchavale&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+###
+
+
+
+

@@ -1,8 +1,11 @@
+<!--
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
+-->
 <h1 align="center">Hello, I'm Yuvraj Chavale 👋</h1>
 <h3 align="center">Automation Testing Enthusiast from India</h3>
-<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
-
+<!--
+<img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+-->
 - 🔭 **Intern at Qedge Tech**  
   Currently working on Manual and Automation Testing, gaining hands-on experience in various testing methodologies and tools.
 

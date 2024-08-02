@@ -1,14 +1,17 @@
 ![MasterHead](https://firebasestorage.googleapis.com/v0/b/flexi-coding.appspot.com/o/dempgi7-520f8d5f-63d4-4453-8822-dbc149ae27f8.gif?alt=media&token=91c0c7b2-93c3-4029-b011-1a8703c5730d)
-<h1 align="center">Hi 👋, I'm Yuvraj Chavale</h1>
-<h3 align="center">A passionate automation testing enthusiast from India.</h3>
+<h1 align="center">Hello, I'm Yuvraj Chavale 👋</h1>
+<h3 align="center">Automation Testing Enthusiast from India</h3>
+<img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+- 🔭 **Intern at Qedge Tech**  
+  Currently working on Manual and Automation Testing, gaining hands-on experience in various testing methodologies and tools.
 
-- 🔭 **Intern at Qedge Tech**
-Currently working on Manual and Automation Testing, gaining hands-on experience in testing methodologies and tools.
-- 👯 Open to Collaboration on **Automation Testing Projects**.
-- 💬 Contact me for insights or collaboration opportunities in Manual and Automation Testing.
-- 📫For inquiries or collaboration, you can reach me at chawaleyuvraj@gmail.com.
+- 👯 **Open to Collaboration** on Automation Testing projects. 
+
+- 💬 Available for insights or collaboration opportunities in Manual and Automation Testing.
+
+- 📫 Reach out to me at [chawaleyuvraj@gmail.com](mailto:chawaleyuvraj@gmail.com).
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

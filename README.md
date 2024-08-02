@@ -4,19 +4,11 @@
 
 <img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 
-- 🔭 I am currently working on implementing a Cucumber framework [WebApp](https://webapp.qedgetech.com/login.php)
-
-- 🌱 I’m currently learning **Selenium,Maven,Cucumber,Postman(Api Testing),Jenkins**
-
-- 👯 I’m looking to collaborate on **Any Automation Testing Project**
-
-- 🤝 I am seeking **automation testing opportunities where I can contribute to enhancing the quality and reliability of software products.**
-
-- 👨‍💻 All of my projects are available at [https://github.com/yuvrajchavale](https://github.com/yuvrajchavale)
-
-- 💬 Ask me about **Manual & Automation Testing**
-
-- 📫 How to reach me **chawaleyuvraj@gmail.com**
+- 🔭 **Intern at Qedge Tech**
+Currently working on Manual and Automation Testing, gaining hands-on experience in testing methodologies and tools.
+- 👯 Open to Collaboration on **Automation Testing Projects**.
+- 💬 Contact me for insights or collaboration opportunities in Manual and Automation Testing.
+- 📫For inquiries or collaboration, you can reach me at chawaleyuvraj@gmail.com.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

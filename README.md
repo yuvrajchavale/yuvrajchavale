@@ -6,7 +6,7 @@
 <!--
 <img align="right" alt="coding" width="200" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
 -->
-- 🔭 **Intern at Qedge Tech**  
+- 🔭 <strong>Intern at Qedge Tech</strong> <br> 
   Currently working on Manual and Automation Testing, gaining hands-on experience in various testing methodologies and tools.
 
 - 👯 **Open to Collaboration** on Automation Testing projects. 
@@ -14,6 +14,7 @@
 - 💬 Available for insights or collaboration opportunities in Manual and Automation Testing.
 
 - 📫 Reach out to me at [chawaleyuvraj@gmail.com](mailto:chawaleyuvraj@gmail.com).
+
 
 
 <h3 align="left">Connect with me:</h3>

@@ -42,14 +42,27 @@
  </p>
 <!-- Snake Animation -->
 <br clear="both">
+<img width="100%" src="https://raw.githubusercontent.com/Pranaybaharghare/Pranaybaharghare/output/snake.svg" alt="Snake animation" style="display: block; margin: 0 auto;">
 
-<img src="https://raw.githubusercontent.com/Pranaybaharghare/Pranaybaharghare/output/snake.svg" alt="Snake animation" />
+<!-- Github Stats -->
+
 
 <div align="center">
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajchavale&theme=aura_dark&hide_border=false" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajchavale&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=yuvrajchavale&theme=aura_dark&hide_border=false&include_all_commits=false&count_private=false" />
+
+<img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajchavale&theme=radical&card_width=900&border=2e343b&stroke=2e343b&border_radius=5"> 
+<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajchavale&theme=radical&include_all_commits=true&count_private=true&layout=compact&card_width=900&border_color=2e343b&border_radius=5">
+<img width="100%" src="https://github-readme-stats.vercel.app/api?username=yuvrajchavale&show_icons=true&theme=radical&include_all_commits=true&count_private=true&custom_title=Contribution%20Stats&line_height=29&hide=stars,issues&card_width=900&border_color=2e343b&border_radius=5">
+
 </div>
+
+<!-- 2nd 1 -->
+
+
+
+
+
+
+
 <!--
 ###
 # 📊 GitHub Stats:

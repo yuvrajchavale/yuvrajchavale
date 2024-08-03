@@ -44,6 +44,7 @@
 <img width="100%" src="https://raw.githubusercontent.com/Pranaybaharghare/Pranaybaharghare/output/snake.svg" alt="Snake animation" style="display: block; margin: 0 auto;">
 
 <!-- Github Stats -->
+<!-- Github Stats -->
 
 
 <div align="center">

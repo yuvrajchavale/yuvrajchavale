@@ -39,10 +39,10 @@
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
  <a href="https://github.com" target="_blank" rel="noreferrer"> <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Github" width="40" height="40"/> </a> 
  </p>
-<!-- Snake Animation -->
+<!-- Snake Animation 
 <br clear="both">
 <img width="100%" src="https://raw.githubusercontent.com/Pranaybaharghare/Pranaybaharghare/output/snake.svg" alt="Snake animation" style="display: block; margin: 0 auto;">
-
+-->
 <!-- Github Stats -->
 
 <div align="center">

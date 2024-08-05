@@ -19,11 +19,17 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yuvrajchavale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraj1897" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/yuvraj chavale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="yuvraj chavale" height="30" width="40" /></a>
-<a href="https://instagram.com/yuvraj_uc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuvraj_uc" height="30" width="40" /></a>
+<!--Linkdin -->
+<a href="https://linkedin.com/in/yuvrajchavale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraj1897" height="40" width="40"  /></a>
+ <!--Gmail Link-->
+ <a href="mailto:chawaleyuvraj@gmail.com">
+  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40" />
+</a>
+ <!--Instagram -->
+<a href="https://instagram.com/yuvraj_uc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuvraj_uc" height="40" width="40" /></a>
 </p>
 
+ <!--New Code -->
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://worldvectorlogo.com/logo/jira-1" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="40" height="40"/> </a> 

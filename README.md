@@ -18,18 +18,20 @@
 
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">
-<!--Linkdin -->
-<a href="https://linkedin.com/in/yuvrajchavale" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuvraj1897" height="40" width="40"  /></a>
- <!--Gmail Link-->
- <a href="mailto:chawaleyuvraj@gmail.com">
-  <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" alt="Gmail" height="40" width="40" />
-</a>
- <!--Instagram -->
-<a href="https://instagram.com/yuvraj_uc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="yuvraj_uc" height="40" width="40" /></a>
-</p>
-
- <!--New Code -->
+ <!--Connect Logo's -->
+<div align="left">
+  <a href="chawaleyuvraj@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  </a>
+  <a href="https://linkedin.com/in/yuvrajchavale" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+    <a href="https://instagram.com/yuvraj_uc" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=e4405f&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="Instagram logo"  />
+  </a>
+ 
+</div>
+ 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
 <a href="https://worldvectorlogo.com/logo/jira-1" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/jira-3.svg" alt="Jira" width="40" height="40"/> </a> 

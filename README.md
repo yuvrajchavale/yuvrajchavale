@@ -51,28 +51,28 @@
 <br clear="both">
 <img width="100%" src="https://raw.githubusercontent.com/Pranaybaharghare/Pranaybaharghare/output/snake.svg" alt="Snake animation" style="display: block; margin: 0 auto;">
 -->
-<!-- Github Stats -->
-
-<div align="center">
-    <!-- GitHub Streak Stats -->
-    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajchavale&theme=radical&card_width=900&border=2e343b&stroke=2e343b&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&include_all_commits=false&count_private=false" alt="GitHub Streak Stats">
-    <!-- Top Languages -->
-    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajchavale&theme=radical&layout=compact&card_width=900&border_color=2e343b&border_radius=5&include_all_commits=false&count_private=false" alt="Top Languages">
-    <!-- Contribution Stats -->
+<!-- Github Stats
+<div align="center">  -->
+    <!-- GitHub Streak Stats 
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajchavale&theme=radical&card_width=900&border=2e343b&stroke=2e343b&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&include_all_commits=false&count_private=false" alt="GitHub Streak Stats"> -->
+    <!-- Top Languages
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajchavale&theme=radical&layout=compact&card_width=900&border_color=2e343b&border_radius=5&include_all_commits=false&count_private=false" alt="Top Languages">  -->
+    <!-- Contribution Stats 
     <img width="100%" src="https://github-readme-stats.vercel.app/api?username=yuvrajchavale&show_icons=true&theme=radical&custom_title=Contribution%20Stats&line_height=29&hide=stars,issues&card_width=900&border_color=2e343b&border_radius=5&include_all_commits=false&count_private=false" alt="GitHub Stats">
 </div>
+-->
 
 
 <!-- 2nd 1 -->
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=yuvrajchavale&theme=dark&hide_border=false&include_all_commits=false&count_private=false )<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yuvrajchavale&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajchavale&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<div align="center">
+    <!-- GitHub Streak Stats -->
+    <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=yuvrajchavale&theme=radical&card_width=900&border=2e343b&stroke=2e343b&border_radius=5&date_format=M%20j%5B%2C%20Y%5D&include_all_commits=false&count_private=false&cache_bust=1" alt="GitHub Streak Stats">
+    <!-- Top Languages -->
+    <img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuvrajchavale&theme=radical&layout=compact&card_width=900&border_color=2e343b&border_radius=5&include_all_commits=false&count_private=false&cache_bust=1" alt="Top Languages">
+    <!-- Contribution Stats -->
+    <img width="100%" src="https://github-readme-stats.vercel.app/api?username=yuvrajchavale&show_icons=true&theme=radical&custom_title=Contribution%20Stats&line_height=29&hide=stars,issues&card_width=900&border_color=2e343b&border_radius=5&include_all_commits=false&count_private=false&cache_bust=1" alt="GitHub Stats">
+</div>
 
----
-[![](https://visitcount.itsvg.in/api?id=yuvrajchavale&icon=0&color=0)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 
 <!--

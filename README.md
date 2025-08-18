@@ -1,7 +1,13 @@
-<!-- Banner -->
+<!-- Banner
 <p align="center">
-  <img src="https://img.freepik.com/free-vector/futuristic-technology-particle-background_23-2148426709.jpg" width="100%" alt="banner"/>
+  <img 
+    src="https://img.freepik.com/free-vector/futuristic-technology-particle-background_23-2148426709.jpg" 
+    alt="banner"
+    style="width: 100%; height: 200px; object-fit: cover;"
+  />
 </p>
+-->
+
 
 <!-- Typing Intro -->
 <h1 align="center">

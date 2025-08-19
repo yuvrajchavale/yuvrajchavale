@@ -164,7 +164,7 @@ flowchart LR
 </p>
 
 ---
-
+<!--
 ## 📈 Activity Graph
 
 <p align="center">
@@ -182,6 +182,7 @@ flowchart LR
 </p>
 
 ---
+-->
 
 ## 🌐 Connect
 

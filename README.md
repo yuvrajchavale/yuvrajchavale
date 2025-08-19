@@ -19,7 +19,7 @@
 </p>
 
 ---
-
+<!--
 ## 🧑‍💻 About Me 
 
 ```mermaid
@@ -47,6 +47,7 @@ mindmap
       Finding bugs is easy
       Delivering quality is an art
 ```
+-->
 ---
 ---
 ## 👨‍💻 About Me – *Yuvraj Chavale*

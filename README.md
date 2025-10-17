@@ -52,7 +52,7 @@ mindmap
 ---
 ## 👨‍💻 About Me – *Yuvraj Chavale*
 
-Hey there! I'm **Yuvraj Chavale**, a Quality Analyst with 1.9 years of hands-on experience in manual and automation testing across domains like **Banking**, **Salesforce CPQ**, and **Mobile Applications**. I specialize in crafting robust test cases, executing functional and regression testing, and building automation frameworks that elevate software quality from good to exceptional.
+Hey there! I'm **Yuvraj Chavale**, a Quality Analyst with 2+ years of hands-on experience in manual and automation testing across domains like **Banking**, **Salesforce CPQ**, and **Mobile Applications**. I specialize in crafting robust test cases, executing functional and regression testing, and building automation frameworks that elevate software quality from good to exceptional.
 
 I’ve worked with tools like **Selenium**, **TestNG**, **Cucumber**, **Postman**, and **SQL**, and I’m fluent in Agile methodologies, CI/CD pipelines, and defect lifecycle management using **JIRA**, **GitHub**, and **Jenkins**. Whether it’s validating dynamic pricing logic in Salesforce CPQ or ensuring seamless donation workflows for nonprofits, I bring clarity, precision, and ownership to every test cycle.
 
